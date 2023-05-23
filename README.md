@@ -28,6 +28,7 @@ Before starting, ensure you have the following installed on your machine:
 3. Restore the NuGet packages:
 
    cd src/Todo.Api
+   
    dotnet restore
    
    
